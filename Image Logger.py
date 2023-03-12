@@ -32,7 +32,7 @@ print(f"""
 {Fore.RED} ▒ ░░  ░      ░  ▒   ▒▒ ░  ░   ░  ░ ░  ░{Fore.BLUE}   ░ ░ ▒  ░  ░ ▒ ▒░   ░   ░   ░   ░  ░ ░  ░  ░▒ ░ ▒░
 {Fore.RED} ▒ ░░      ░     ░   ▒   ░ ░   ░    ░   {Fore.BLUE}     ░ ░   ░ ░ ░ ▒  ░ ░   ░ ░ ░   ░    ░     ░░   ░ 
 {Fore.RED} ░         ░         ░  ░      ░    ░  ░{Fore.BLUE}       ░  ░    ░ ░        ░       ░    ░  ░   ░                                                                                                                                                                                  
-{Fore.RED}[Image Logger]{Fore.WHITE} Made By Termed$#0001
+{Fore.RED}[Image Logger]{Fore.WHITE} Made By goat 
 """)
 # Change Title if you want..
 
